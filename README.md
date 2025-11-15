@@ -10,7 +10,7 @@ It can be used for practicing descriptive statistics, probability distribution f
 
 | Column Name | Description |
 |--------------|--------------|
-| **No of Vegetables Sold** | Number of vegetables sold on a given day (ranging from 0 to 14). |
+| **No of Vegetables Sold** | Number of vegetables sold on a given day. |
 | **Number of Days** | Frequency of days corresponding to each sales count. |
 
 
